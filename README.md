@@ -1,4 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/koushik-ms/vending-machine-kata-bootstrap)
 [![Run on Repl.it](https://repl.it/badge/github/koushik-ms/vending-machine-kata-bootstrap)](https://repl.it/github/koushik-ms/vending-machine-kata-bootstrap)
 
 Vending Machine Kata
