@@ -1,10 +1,9 @@
 import pytest
 
-class VendingMachineTestCase(unittest.TestCase):
-  # Any function inside this class whose name 
-  # starts with 'test...' is a test
-  def test_the_answer(self):
-    self.assertEqual(42, "fixme")
 
-if __name__ == '__main__':
-  unittest.main()
+def get_the_answer():
+  return 10
+
+
+def test_the_answer():
+  assert get_the_answer() == 42
